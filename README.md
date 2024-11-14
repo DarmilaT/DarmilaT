@@ -49,7 +49,10 @@
 
 ### GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarmilaT&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarmilaT&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarmilaT&layout=compact&langs_count=8&theme=github_dark)
+
 
 ### LeetCode Profile
 
