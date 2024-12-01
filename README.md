@@ -59,7 +59,7 @@
 - **LeetCode**: [Darmila (user9177Z)](https://leetcode.com/user9177Z/)
 
 ### TryHackMe Badge
-<img src="https://tryhackme-badges.s3.amazonaws.com/Darmila.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/Darmila.png?update=2" alt="Your Image Badge" />
 
 ## 🌱 What I'm Currently Learning:
 
